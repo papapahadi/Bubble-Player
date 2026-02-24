@@ -80,9 +80,3 @@ papaplayer/
   - `PlayerViewModel`: app state, playback actions, filtering, game mechanics
 - `Presentation/Views` + `Components`:
   - `PlayerScreen`, `RhythmGameView`, animated UI building blocks
-
-## Notes
-
-- App display name is configured as **Bubble Player**.
-- Some internal model names still use `Honey*` identifiers from earlier iterations, but visuals/behavior are water-themed in the current game design.
-

@@ -57,19 +57,6 @@ Common tested types in the UI import picker include:
 - Xcode (with SwiftUI + macOS SDK support)
 - macOS development environment
 
-### Open in Xcode
-
-1. Open `/Users/prabhatsingh/Documents/papaplayer/papaplayer.xcodeproj`
-2. Select scheme: `papaplayer`
-3. Build and run
-
-### CLI Build
-
-```bash
-cd /Users/prabhatsingh/Documents/papaplayer
-xcodebuild -project papaplayer.xcodeproj -scheme papaplayer -destination 'platform=macOS,arch=arm64' -derivedDataPath ./DerivedData build
-```
-
 ## Project Structure
 
 ```text

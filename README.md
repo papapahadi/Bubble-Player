@@ -2,6 +2,8 @@
 
 Bubble Player is a macOS local music player built with SwiftUI, with an arcade-style bubble game mode layered on top of playback.
 
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/e0391358-94da-40c4-85a2-257aabefd639" />
+
 ## Highlights
 
 - Local audio import from files or folders
@@ -15,6 +17,9 @@ Bubble Player is a macOS local music player built with SwiftUI, with an arcade-s
 - Mini player mode
 - Rhythm game mode with animated falling bubbles, water fill physics, score/combo, and party callouts
 - Smooth game-over audio fade-out (no abrupt hard stop)
+
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/acf6f730-b4f8-4dda-a4e0-fcee78b4862e" />
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/c87e6c5d-33a9-46c6-81a2-698716804bb6" />
 
 ## Game Mode
 

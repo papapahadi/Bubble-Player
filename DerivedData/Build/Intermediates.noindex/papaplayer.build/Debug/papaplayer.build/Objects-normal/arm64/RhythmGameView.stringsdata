@@ -1,0 +1,24 @@
+{
+  "source": "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Presentation/Components/RhythmGameView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Flooded",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 95
+        }
+      },
+      {
+        "comment": "",
+        "key": "Party got over. Speakers got drowned.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 97
+        }
+      }
+    ]
+  },
+  "version": 1
+}

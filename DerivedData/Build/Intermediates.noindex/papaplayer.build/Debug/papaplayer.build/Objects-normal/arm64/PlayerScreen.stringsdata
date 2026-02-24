@@ -1,0 +1,168 @@
+{
+  "source": "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Presentation/Views/PlayerScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Theme",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 133
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bubble Player",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Local tracks. Bubble vibes. Party game mode.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "GAME",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 187
+        }
+      },
+      {
+        "comment": "",
+        "key": "Filter",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 337
+        }
+      },
+      {
+        "comment": "",
+        "key": "Library",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 326
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld tracks",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 332
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search songs, artists, albums...",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 347
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lldx",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 376
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 84,
+          "startingLine": 376
+        }
+      },
+      {
+        "comment": "",
+        "key": "Drop audio files or folders to import",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 420
+        }
+      },
+      {
+        "comment": "",
+        "key": "PlayPause",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 431
+        }
+      },
+      {
+        "comment": "",
+        "key": "Next",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 434
+        }
+      },
+      {
+        "comment": "",
+        "key": "Previous",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 437
+        }
+      },
+      {
+        "comment": "",
+        "key": "ToggleFavorite",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 440
+        }
+      },
+      {
+        "comment": "",
+        "key": "LaneA",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 443
+        }
+      },
+      {
+        "comment": "",
+        "key": "LaneS",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 446
+        }
+      },
+      {
+        "comment": "",
+        "key": "LaneD",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 449
+        }
+      },
+      {
+        "comment": "",
+        "key": "LaneF",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 452
+        }
+      },
+      {
+        "comment": "",
+        "key": "Restart party round",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 465
+        }
+      }
+    ]
+  },
+  "version": 1
+}

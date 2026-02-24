@@ -1,0 +1,219 @@
+{
+  "" : {
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/papaplayer-primary.dia",
+    "emit-module-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/papaplayer-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/papaplayer-primary-emit-module.dia",
+    "pch" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/papaplayer-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/papaplayer-primary.swiftdeps"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/ContentView.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Domain/Enums/GameColorMode.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/GameColorMode.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/GameColorMode.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/GameColorMode.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/GameColorMode.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/GameColorMode.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/GameColorMode.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/GameColorMode.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/GameColorMode~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Domain/Enums/LibraryFilter.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/LibraryFilter.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/LibraryFilter.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/LibraryFilter.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/LibraryFilter.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/LibraryFilter.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/LibraryFilter.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/LibraryFilter.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/LibraryFilter~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Domain/Enums/RepeatMode.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RepeatMode.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RepeatMode.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RepeatMode.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RepeatMode.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RepeatMode.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RepeatMode.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RepeatMode.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RepeatMode~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Domain/Models/HoneyRipple.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/HoneyRipple.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/HoneyRipple.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/HoneyRipple.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/HoneyRipple.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/HoneyRipple.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/HoneyRipple.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/HoneyRipple.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/HoneyRipple~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Domain/Models/HoneySplash.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/HoneySplash.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/HoneySplash.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/HoneySplash.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/HoneySplash.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/HoneySplash.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/HoneySplash.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/HoneySplash.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/HoneySplash~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Domain/Models/PartyCallout.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PartyCallout.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PartyCallout.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PartyCallout.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PartyCallout.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PartyCallout.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PartyCallout.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PartyCallout.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PartyCallout~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Domain/Models/RhythmNote.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RhythmNote.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RhythmNote.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RhythmNote.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RhythmNote.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RhythmNote.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RhythmNote.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RhythmNote.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RhythmNote~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Domain/Models/Track.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/Track.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/Track.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/Track.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/Track.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/Track.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/Track.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/Track.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/Track~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Domain/Models/TrackMetadata.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/TrackMetadata.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/TrackMetadata.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/TrackMetadata.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/TrackMetadata.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/TrackMetadata.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/TrackMetadata.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/TrackMetadata.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/TrackMetadata~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Infrastructure/Services/AudioPlaybackService.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/AudioPlaybackService.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/AudioPlaybackService.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/AudioPlaybackService.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/AudioPlaybackService.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/AudioPlaybackService.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/AudioPlaybackService.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/AudioPlaybackService.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/AudioPlaybackService~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Infrastructure/Services/FileType+Audio.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/FileType+Audio.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/FileType+Audio.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/FileType+Audio.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/FileType+Audio.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/FileType+Audio.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/FileType+Audio.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/FileType+Audio.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/FileType+Audio~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Infrastructure/Services/TrackImportService.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/TrackImportService.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/TrackImportService.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/TrackImportService.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/TrackImportService.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/TrackImportService.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/TrackImportService.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/TrackImportService.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/TrackImportService~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Presentation/Components/ArtworkView.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/ArtworkView.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/ArtworkView.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/ArtworkView.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/ArtworkView.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/ArtworkView.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/ArtworkView.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/ArtworkView.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/ArtworkView~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Presentation/Components/BubblyBackgroundView.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/BubblyBackgroundView.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/BubblyBackgroundView.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/BubblyBackgroundView.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/BubblyBackgroundView.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/BubblyBackgroundView.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/BubblyBackgroundView.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/BubblyBackgroundView.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/BubblyBackgroundView~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Presentation/Components/EqualizerView.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/EqualizerView.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/EqualizerView.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/EqualizerView.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/EqualizerView.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/EqualizerView.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/EqualizerView.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/EqualizerView.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/EqualizerView~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Presentation/Components/RhythmGameView.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RhythmGameView.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RhythmGameView.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RhythmGameView.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RhythmGameView.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RhythmGameView.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RhythmGameView.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RhythmGameView.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/RhythmGameView~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Presentation/ViewModels/PlayerViewModel.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PlayerViewModel.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PlayerViewModel.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PlayerViewModel.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PlayerViewModel.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PlayerViewModel.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PlayerViewModel.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PlayerViewModel.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PlayerViewModel~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/Presentation/Views/PlayerScreen.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PlayerScreen.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PlayerScreen.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PlayerScreen.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PlayerScreen.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PlayerScreen.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PlayerScreen.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PlayerScreen.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/PlayerScreen~partial.swiftmodule"
+  },
+  "/Users/prabhatsingh/Documents/papaplayer/papaplayer/papaplayerApp.swift" : {
+    "const-values" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/papaplayerApp.swiftconstvalues",
+    "dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/papaplayerApp.d",
+    "diagnostics" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/papaplayerApp.dia",
+    "index-unit-output-path" : "/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/papaplayerApp.o",
+    "llvm-bc" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/papaplayerApp.bc",
+    "object" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/papaplayerApp.o",
+    "swift-dependencies" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/papaplayerApp.swiftdeps",
+    "swiftmodule" : "/Users/prabhatsingh/Documents/papaplayer/DerivedData/Build/Intermediates.noindex/papaplayer.build/Debug/papaplayer.build/Objects-normal/arm64/papaplayerApp~partial.swiftmodule"
+  }
+}

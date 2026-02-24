@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		BBC4D9C52F4D81BF0002DCEF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BBC4D9AF2F4D81BD0002DCEF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BBC4D9B62F4D81BD0002DCEF;
+			remoteInfo = papaplayer;
+		};
+		BBC4D9CF2F4D81BF0002DCEF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BBC4D9AF2F4D81BD0002DCEF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BBC4D9B62F4D81BD0002DCEF;
+			remoteInfo = papaplayer;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		BBC4D9B72F4D81BD0002DCEF /* papaplayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = papaplayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BBC4D9C42F4D81BF0002DCEF /* papaplayerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = papaplayerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BBC4D9CE2F4D81BF0002DCEF /* papaplayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = papaplayerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		BBC4D9B92F4D81BD0002DCEF /* papaplayer */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = papaplayer;
+			sourceTree = "<group>";
+		};
+		BBC4D9C72F4D81BF0002DCEF /* papaplayerTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = papaplayerTests;
+			sourceTree = "<group>";
+		};
+		BBC4D9D12F4D81BF0002DCEF /* papaplayerUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = papaplayerUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BBC4D9B42F4D81BD0002DCEF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BBC4D9C12F4D81BF0002DCEF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BBC4D9CB2F4D81BF0002DCEF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BBC4D9AE2F4D81BD0002DCEF = {
+			isa = PBXGroup;
+			children = (
+				BBC4D9B92F4D81BD0002DCEF /* papaplayer */,
+				BBC4D9C72F4D81BF0002DCEF /* papaplayerTests */,
+				BBC4D9D12F4D81BF0002DCEF /* papaplayerUITests */,
+				BBC4D9B82F4D81BD0002DCEF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BBC4D9B82F4D81BD0002DCEF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BBC4D9B72F4D81BD0002DCEF /* papaplayer.app */,
+				BBC4D9C42F4D81BF0002DCEF /* papaplayerTests.xctest */,
+				BBC4D9CE2F4D81BF0002DCEF /* papaplayerUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BBC4D9B62F4D81BD0002DCEF /* papaplayer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BBC4D9D82F4D81BF0002DCEF /* Build configuration list for PBXNativeTarget "papaplayer" */;
+			buildPhases = (
+				BBC4D9B32F4D81BD0002DCEF /* Sources */,
+				BBC4D9B42F4D81BD0002DCEF /* Frameworks */,
+				BBC4D9B52F4D81BD0002DCEF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				BBC4D9B92F4D81BD0002DCEF /* papaplayer */,
+			);
+			name = papaplayer;
+			packageProductDependencies = (
+			);
+			productName = papaplayer;
+			productReference = BBC4D9B72F4D81BD0002DCEF /* papaplayer.app */;
+			productType = "com.apple.product-type.application";
+		};
+		BBC4D9C32F4D81BF0002DCEF /* papaplayerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BBC4D9DB2F4D81BF0002DCEF /* Build configuration list for PBXNativeTarget "papaplayerTests" */;
+			buildPhases = (
+				BBC4D9C02F4D81BF0002DCEF /* Sources */,
+				BBC4D9C12F4D81BF0002DCEF /* Frameworks */,
+				BBC4D9C22F4D81BF0002DCEF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BBC4D9C62F4D81BF0002DCEF /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				BBC4D9C72F4D81BF0002DCEF /* papaplayerTests */,
+			);
+			name = papaplayerTests;
+			packageProductDependencies = (
+			);
+			productName = papaplayerTests;
+			productReference = BBC4D9C42F4D81BF0002DCEF /* papaplayerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		BBC4D9CD2F4D81BF0002DCEF /* papaplayerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BBC4D9DE2F4D81BF0002DCEF /* Build configuration list for PBXNativeTarget "papaplayerUITests" */;
+			buildPhases = (
+				BBC4D9CA2F4D81BF0002DCEF /* Sources */,
+				BBC4D9CB2F4D81BF0002DCEF /* Frameworks */,
+				BBC4D9CC2F4D81BF0002DCEF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BBC4D9D02F4D81BF0002DCEF /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				BBC4D9D12F4D81BF0002DCEF /* papaplayerUITests */,
+			);
+			name = papaplayerUITests;
+			packageProductDependencies = (
+			);
+			productName = papaplayerUITests;
+			productReference = BBC4D9CE2F4D81BF0002DCEF /* papaplayerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BBC4D9AF2F4D81BD0002DCEF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2620;
+				LastUpgradeCheck = 2620;
+				TargetAttributes = {
+					BBC4D9B62F4D81BD0002DCEF = {
+						CreatedOnToolsVersion = 26.2;
+					};
+					BBC4D9C32F4D81BF0002DCEF = {
+						CreatedOnToolsVersion = 26.2;
+						TestTargetID = BBC4D9B62F4D81BD0002DCEF;
+					};
+					BBC4D9CD2F4D81BF0002DCEF = {
+						CreatedOnToolsVersion = 26.2;
+						TestTargetID = BBC4D9B62F4D81BD0002DCEF;
+					};
+				};
+			};
+			buildConfigurationList = BBC4D9B22F4D81BD0002DCEF /* Build configuration list for PBXProject "papaplayer" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BBC4D9AE2F4D81BD0002DCEF;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = BBC4D9B82F4D81BD0002DCEF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BBC4D9B62F4D81BD0002DCEF /* papaplayer */,
+				BBC4D9C32F4D81BF0002DCEF /* papaplayerTests */,
+				BBC4D9CD2F4D81BF0002DCEF /* papaplayerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BBC4D9B52F4D81BD0002DCEF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BBC4D9C22F4D81BF0002DCEF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BBC4D9CC2F4D81BF0002DCEF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BBC4D9B32F4D81BD0002DCEF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BBC4D9C02F4D81BF0002DCEF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BBC4D9CA2F4D81BF0002DCEF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		BBC4D9C62F4D81BF0002DCEF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = BBC4D9B62F4D81BD0002DCEF /* papaplayer */;
+			targetProxy = BBC4D9C52F4D81BF0002DCEF /* PBXContainerItemProxy */;
+		};
+		BBC4D9D02F4D81BF0002DCEF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = BBC4D9B62F4D81BD0002DCEF /* papaplayer */;
+			targetProxy = BBC4D9CF2F4D81BF0002DCEF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		BBC4D9D62F4D81BF0002DCEF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 26.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		BBC4D9D72F4D81BF0002DCEF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 26.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		BBC4D9D92F4D81BF0002DCEF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_APP_SANDBOX = YES;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SELECTED_FILES = readonly;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = me.singh.jatin.papaplayer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		BBC4D9DA2F4D81BF0002DCEF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_APP_SANDBOX = YES;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SELECTED_FILES = readonly;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = me.singh.jatin.papaplayer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		BBC4D9DC2F4D81BF0002DCEF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 26.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = me.singh.jatin.papaplayerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/papaplayer.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/papaplayer";
+			};
+			name = Debug;
+		};
+		BBC4D9DD2F4D81BF0002DCEF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 26.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = me.singh.jatin.papaplayerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/papaplayer.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/papaplayer";
+			};
+			name = Release;
+		};
+		BBC4D9DF2F4D81BF0002DCEF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = me.singh.jatin.papaplayerUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = papaplayer;
+			};
+			name = Debug;
+		};
+		BBC4D9E02F4D81BF0002DCEF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = me.singh.jatin.papaplayerUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = papaplayer;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BBC4D9B22F4D81BD0002DCEF /* Build configuration list for PBXProject "papaplayer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BBC4D9D62F4D81BF0002DCEF /* Debug */,
+				BBC4D9D72F4D81BF0002DCEF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BBC4D9D82F4D81BF0002DCEF /* Build configuration list for PBXNativeTarget "papaplayer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BBC4D9D92F4D81BF0002DCEF /* Debug */,
+				BBC4D9DA2F4D81BF0002DCEF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BBC4D9DB2F4D81BF0002DCEF /* Build configuration list for PBXNativeTarget "papaplayerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BBC4D9DC2F4D81BF0002DCEF /* Debug */,
+				BBC4D9DD2F4D81BF0002DCEF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BBC4D9DE2F4D81BF0002DCEF /* Build configuration list for PBXNativeTarget "papaplayerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BBC4D9DF2F4D81BF0002DCEF /* Debug */,
+				BBC4D9E02F4D81BF0002DCEF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BBC4D9AF2F4D81BD0002DCEF /* Project object */;
+}

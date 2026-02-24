@@ -65,7 +65,7 @@ Common tested types in the UI import picker include:
 ## Project Structure
 
 ```text
-papaplayer/
+bubbleplayer/
   Domain/
     Enums/
     Models/
